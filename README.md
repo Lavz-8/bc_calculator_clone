@@ -23,14 +23,12 @@ This is a simple command-line calculator implemented in Perl that follows the DM
 4. Get the calculated result as output.
 
 ## Input
-    ```bash
+
     5+3*2^2
-    ```
     
 ## Output
-    ```bash
+
     17
-    ```
 
 ## Error Handling
 - *Invalid Characters:* The program restricts non-numeric characters except valid operators.
