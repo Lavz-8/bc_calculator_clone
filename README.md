@@ -38,4 +38,4 @@ This is a simple command-line calculator implemented in Perl that follows the DM
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ## Credits
-This Driver Attention Assist System was created by Your **Lavanya Varadharajan**.
+This bc calculator clone was created by Your **Lavanya Varadharajan**.
