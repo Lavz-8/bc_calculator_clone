@@ -31,8 +31,8 @@ This is a simple command-line calculator implemented in Perl that follows the DM
     17
 
 ## Error Handling
-- *Invalid Characters:* The program restricts non-numeric characters except valid operators.
-- *Incorrect Syntax:* If multiple operators are used incorrectly, an error message is displayed.
+- **Invalid Characters:** The program restricts non-numeric characters except valid operators.
+- **Incorrect Syntax:** If multiple operators are used incorrectly, an error message is displayed.
 
 ## Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
